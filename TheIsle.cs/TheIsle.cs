@@ -16,9 +16,9 @@ namespace WindowsGSM.Plugins
         public Plugin Plugin = new Plugin
         {
             name = "WindowsGSM.TheIsle", // WindowsGSM.XXXX
-            author = "kessef",
+            author = "kessef,firebirdjsb",
             description = "WindowsGSM plugin for supporting TheIsle Dedicated Server",
-            version = "1.1",
+            version = "1.2",
             url = "https://github.com/dkdue/WindowsGSM.TheIsle", // Github repository link (Best practice)
             color = "#34c9eb" // Color Hex
         };
